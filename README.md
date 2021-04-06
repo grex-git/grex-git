@@ -1,7 +1,6 @@
 - Hi, I’m @grex-git
 - Deep Learning enthusiast
 - I’m currently learning powerBi and Tableau
--
 - gautamrishionline@gmail.com
 
 <!---
